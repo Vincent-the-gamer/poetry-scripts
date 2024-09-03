@@ -1,12 +1,14 @@
 # poetry-scripts
-Installation/Uninstallation scripts of Python poetry virtualenv manager.
+Install/Uninstall scripts of Python poetry virtualenv manager.
 
 ## Installation
 
 By default, Poetry is installed into a platform and user-specific directory:
 
 `~/Library/Application Support/pypoetry` on MacOS.
+
 `~/.local/share/pypoetry` on Linux/Unix.
+
 `%APPDATA%\pypoetry` on Windows.
 
 ### Basic
