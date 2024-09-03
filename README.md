@@ -1,6 +1,8 @@
 # poetry-scripts
 Install/Uninstall scripts of Python poetry virtualenv manager.
 
+Poetry Official Site: [https://python-poetry.org/](https://python-poetry.org/)
+
 ## Installation
 
 By default, Poetry is installed into a platform and user-specific directory:
@@ -35,5 +37,5 @@ POETRY_PREVIEW=1 python3 install_poetry.py
 ## Uninstallation
 
 ```shell
-python3 ./install_poetry.py --uninstall
+python3 install_poetry.py --uninstall
 ```
